@@ -6,4 +6,7 @@ fun main() {
 
     println("общее число заказов $orderCount , $thanksMessage")
 
+
+    //println("Hello World!")
+
 }
